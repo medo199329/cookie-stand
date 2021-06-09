@@ -4,9 +4,9 @@ let workingHours = ['6am', '7am', '8am', '9am', '10am', '11am', '12pm', '1pm', '
 
  locations = ['Seattle','Tokyo','Dubai','Paris','Lima']
 
- //costumerPerHoursMin = ['23','3','11','20','2']
+ costumerPerHoursMin = ['23','3','11','20','2']
 
- //costumerPerHoursMax = ['65','24','38','38','16']
+ costumerPerHoursMax = ['65','24','38','38','16']
 
 
     let Seattlestore = {
